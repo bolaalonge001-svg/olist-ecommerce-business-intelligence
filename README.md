@@ -128,6 +128,7 @@ Based on the analysis:
 5. Continue supporting flexible credit-card installment options due to their importance in customer payment behavior.
 
 ## Power BI Dashboard
+The Power BI dashboard was developed in Power BI Desktop. Dashboard screenshots are included below, while the PBIX file is not included in this repository due to GitHub's browser file-size limit.
 
 The Power BI report contains four analytical pages.
 
